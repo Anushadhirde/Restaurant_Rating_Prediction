@@ -19,3 +19,10 @@ on the testing data.
 
 Interpret the model's results and analyze the most
 influential features affecting restaurant ratings.
+
+## Download Trained Model
+
+The trained model file `restaurant_rating_model.pkl` is too large for GitHub.
+
+📥 [Download]([https://drive.google.com/your-shared-link-here](https://drive.google.com/file/d/1uBJk_jaXScMV6--LanLMypgO_6qehKnG/view?usp=drive_link))
+
