@@ -22,7 +22,9 @@ influential features affecting restaurant ratings.
 
 ## Download Trained Model
 
-The trained model file `restaurant_rating_model.pkl`.
+The trained model file `restaurant_rating_model.pkl` is not included in the GitHub repo due to size limitations.
 
-[Download]([https://drive.google.com/your-shared-link-here](https://drive.google.com/file/d/1uBJk_jaXScMV6--LanLMypgO_6qehKnG/view?usp=drive_link))
+📥 **[Click here to download the model](https://drive.google.com/uc?id=1uBJk_jaXScMV6--LanLMypgO_6qehKnG&export=download)**  
+(File hosted on Google Drive)
+
 
